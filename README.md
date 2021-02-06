@@ -1,6 +1,10 @@
-# submission_1
+# Restaurant App
 
-A new Flutter project.
+This project created with GetX state management, and this project have some features:
+- Get & Post data from/to API
+- CRUD data from/to database
+- Daily reminder
+- Notification
 
 ## Getting Started
 
